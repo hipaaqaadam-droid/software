@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\rahma c#\software\software\obj\Debug\net8.0-windows\software.Form1.resources
+C:\Users\hp\Desktop\rahma c#\software\software\obj\Debug\net8.0-windows\software.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\rahma c#\software\software\obj\Debug\net8.0-windows\software.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\rahma c#\software\software\obj\Debug\net8.0-windows\software.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\rahma c#\software\software\obj\Debug\net8.0-windows\software.AssemblyInfo.cs
+C:\Users\hp\Desktop\rahma c#\software\software\obj\Debug\net8.0-windows\software.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\rahma c#\software\software\bin\Debug\net8.0-windows\software.exe
+C:\Users\hp\Desktop\rahma c#\software\software\bin\Debug\net8.0-windows\software.deps.json
+C:\Users\hp\Desktop\rahma c#\software\software\bin\Debug\net8.0-windows\software.runtimeconfig.json
+C:\Users\hp\Desktop\rahma c#\software\software\bin\Debug\net8.0-windows\software.dll
+C:\Users\hp\Desktop\rahma c#\software\software\bin\Debug\net8.0-windows\software.pdb
+C:\Users\hp\Desktop\rahma c#\software\software\obj\Debug\net8.0-windows\software.dll
+C:\Users\hp\Desktop\rahma c#\software\software\obj\Debug\net8.0-windows\refint\software.dll
+C:\Users\hp\Desktop\rahma c#\software\software\obj\Debug\net8.0-windows\software.pdb
+C:\Users\hp\Desktop\rahma c#\software\software\obj\Debug\net8.0-windows\software.genruntimeconfig.cache
+C:\Users\hp\Desktop\rahma c#\software\software\obj\Debug\net8.0-windows\ref\software.dll
